@@ -1,4 +1,6 @@
-[![MasterHead](https://www.starkcloud.com/hubfs/Desarrollo%20de%20Software%20a%20Medida%20vs.%20Soluciones%20Preconstruidas.webp)
+<div align="center">
+  <img src="https://www.starkcloud.com/hubfs/Desarrollo%20de%20Software%20a%20Medida%20vs.%20Soluciones%20Preconstruidas.webp" width="400" height="200" />
+</div>
 <h1 align="center">Hi 👋, I'm Doğan Güneş</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
