@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Doğan Güneş</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
-- 🌱 I’m currently learning *swiftUI, Test Automation*
+- 🌱 I’m currently learning *swiftUI, Test Automation,SAP modules*
 
 - 📫 How to reach me *dgunes679@gmail.com*
 
